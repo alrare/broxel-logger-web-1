@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Broxel.Logger", "Broxel.Logger\Broxel.Logger.csproj", "{CC52587A-901B-40C0-B39F-5A89A33C1E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC52587A-901B-40C0-B39F-5A89A33C1E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC52587A-901B-40C0-B39F-5A89A33C1E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC52587A-901B-40C0-B39F-5A89A33C1E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC52587A-901B-40C0-B39F-5A89A33C1E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9981B5-5F96-4E74-9B4A-835BE475D193}
+	EndGlobalSection
+EndGlobal
